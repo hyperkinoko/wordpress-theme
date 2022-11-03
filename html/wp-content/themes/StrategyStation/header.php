@@ -34,10 +34,26 @@
  <link rel="stylesheet" id="virtue_child-css" href="http://localhost:8888/wp-admin/wp-content/themes/childtheme/style.css?ver=1.0.0" type="text/css" media="all"/>
  <link rel="stylesheet" id="redux-google-fonts-virtue-css" href="http://web.archive.org/web/20211102041247cs_/http://localhost:8888/fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLora%3A400&amp;ver=1599454463" type="text/css" media="all"/>
  <link rel="stylesheet" id="jetpack_css-css" href="http://localhost:8888/wp-admin/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2.1" type="text/css" media="all"/>
-<!-- <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
+<script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
  <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
  <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
- <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script> -->
+ <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script>
+
+ <link rel="https://api.w.org/" href="http://localhost:8888/wp-admin/wp-json/"/><link rel="alternate" type="application/json" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-json/wp/v2/pages/29"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strategy-station.biz/xmlrpc.php?rsd"/>
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-admin/wp-includes/wlwmanifest.xml"/> 
+ <meta name="generator" content="WordPress 5.8.1"/>
+ <link rel="shortlink" href="http://localhost:8888/wp-admin/"/>
+ <link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wp-admin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
+ <link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/wp-admin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F&amp;format=xml"/>
+
+ <?php get_template_part('parts/head'); ?>
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/header.css">
+ <?php wp_head(); ?>
+ 
+</head>
+
+<body>
+
  <header class="banner headerclass" role="banner">
    <section id="topbar" class="topclass">
      <div class="container">
@@ -177,9 +193,5 @@
      </div><!-- /.wrap -->
             
    </div> <!-- Close Container -->
-
-<?php wp_head(); ?>
-
-</head>
-
-<body>
+</header>
+<main>
