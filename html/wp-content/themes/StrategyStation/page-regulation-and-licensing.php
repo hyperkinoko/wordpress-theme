@@ -1,71 +1,38 @@
 <?php get_header(); ?>
-	<div class="wrap contentclass" role="document">
+<!-- contens start -->
+<div class="wrap contentclass" role="document">
 
 	<div id="pageheader" class="titleclass">
 	<div class="container">
 		<div class="page-header">
 			<h1 class="entry-title" itemprop="name">
-				Company profile			</h1>
+				Regulation and Licensing			</h1>
 					</div>
 	</div><!--container-->
 </div><!--titleclass--><div id="content" class="container container-contained">
 	<div class="row">
 		<div class="main col-lg-9 col-md-8" role="main">
 			<div class="entry-content" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
-				<h2>Company Profile</h2>
-<table class="stripe">
-<tbody>
-<tr>
-<th>Company name :</th>
-<td>Strategy Station Ltd</td>
-</tr>
-<tr>
-<th>Location of head office :</th>
-<td>Unit Level 9F(2), Main Office Tower, Financial Park Labuan,<br/>
-Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia</td>
-</tr>
-<tr>
-<th>Registration No :</th>
-<td>MB/18/0026</td>
-</tr>
-<tr>
-<th>Date of registration :</th>
-<td>11/04/2018</td>
-</tr>
-<tr>
-<th>Main business partners</th>
-<td>(1) Individual customers<br/>
-(2) Financial Service Company (Money Manager)</td>
-</tr>
-<tr>
-<th>Our Bank :</th>
-<td>United Overseas Bank (Malaysia) Bhd.</td>
-</tr>
-</tbody>
-</table>
-<div class="space_20 clearfix"></div>
-<h3>Foreign exchange market</h3>
-<p>The foreign exchange market (forex, FX, or currency market) is a global decentralized market for the trading of currencies. In terms of volume of trading, it is by far the largest market in the world.</p>
-[1] The main participants in this market are the larger international banks. Financial centres around the world function as anchors of trading between a wide range of multiple types of buyers and sellers around the clock, with the exception of weekends. The foreign exchange market determines the relative values of different currencies.</p>
-[2] The foreign exchange market works through financial institutions, and it operates on several levels. Behind the scenes banks turn to a smaller number of financial firms known as “dealers,” who are actively involved in large quantities of foreign exchange trading. Most foreign exchange dealers are banks, so this behind-the-scenes market is sometimes called the “interbank market”, although a few insurance companies and other kinds of financial firms are involved. Trades between foreign exchange dealers can be very large, involving hundreds of millions of dollars. Because of the sovereignty issue when involving two currencies, Forex has little (if any) supervisory entity regulating its actions. The foreign exchange market assists international trade and investments by enabling currency conversion. For example, it permits a business in the United States to import goods from the European Union member states, especially Eurozone members, and pay Euros, even though its income is in United States dollars. It also supports direct speculation and evaluation relative to the value of currencies, and the carry trade, speculation based on the interest rate differential between two currencies.</p>
-[3] In a typical foreign exchange transaction, a party purchases some quantity of one currency by paying for some quantity of another currency. The modern foreign exchange market began forming during the 1970s after three decades of government restrictions on foreign exchange transactions (the Bretton Woods system of monetary management established the rules for commercial and financial relations among the world’s major industrial states after World War II), when countries gradually switched to floating exchange rates from the previous exchange rate regime, which remained fixed as per the Bretton Woods system. The foreign exchange market is unique because of the following characteristics:</p>
-<ul>
-<li>its huge trading volume representing the largest asset class in the world leading to high liquidity;</li>
-<li>its geographical dispersion;</li>
-<li>its continuous operation: 24 hours a day except weekends, i.e., trading from 22:00 GMT on Sunday (Sydney) until 22:00 GMT Friday (New York);</li>
-<li>the variety of factors that affect exchange rates;</li>
-<li>the low margins of relative profit compared with other markets of fixed income; and</li>
-<li>the use of leverage to enhance profit and loss margins and with respect to account size.</li>
-</ul>
+				<h2>License</h2>
+<p>Strategy Station Ltd (SSFX) Holds an Labuan Financial Services Authority (LFSA) International Financial Services Commission (LFSA).</p>
+<p>LFSA requires licensed financial services providers to meet strict capital requirements and to implement and comply with internal procedures including risk management, staff training, accounting and audits.</p>
+<p><a href="../wp-admin/uploads/2017/03/SS_LFSA_License_update-e1632925746419.png?ssl=1"><img loading="lazy" class="alignnone size-medium wp-image-179" src="../wp-admin/uploads/2017/03/SS_LFSA_License_update-e1632925746419.png?resize=363%2C512&amp;ssl=1" alt="SS-Licence" width="363" height="512" data-recalc-dims="1"/></a></p>
+<h2>How are my funds held with SSFX?</h2>
+<p>When you fund your trading account with SSFX your funds are paid into a segregated client bank account, held with International Bank. SSFX cannot use client funds for any business purpose, they are kept on trust for clients and segregated from the business, however client money can be used to maintain margin that is needed to cover positions opened by clients.</p>
+<h2>Bank Accounts in Tier-1 Banks</h2>
+<p>All client funds are deposited into client segregated accounts held with top-tier banks.</p>
+<h2>Regulation of SSFX</h2>
+<p>SSFX holds an Labuan Financial Services Authority (LFSA) No.MB/18/0026.</p>
+<p>LFSA does not endorse specific products. LFSA’s regulation of us applies in respect to our Labuan Financial Services Authority only. You should be mindful of the risks of trading Margin FX and note that you can incur losses when trading. Returns are not guaranteed.</p>
 			</div>
 					</div><!-- /.main -->
 <aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
 	<div class="sidebar">
 		<section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" menu-item-790"><a href="http://localhost:8888/"><span>Home</span></a></li>
-<li class=" current-menu-item current_page_item sf-dropdown menu-item-601"><a href="http://localhost:8888/company/" aria-current="page"><span>Company profile</span></a>
+<li class=" current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
 <ul class="sub-menu sf-dropdown-menu dropdown">
 	<li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
-	<li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
+	<li class=" current-menu-item current_page_item menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/" aria-current="page"><span>Regulation and Licensing</span></a></li>
 	<li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
 </ul>
 </li>
@@ -80,11 +47,11 @@ Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia</td>
 </ul>
 </li>
 <li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
-<li class=" menu-item-861"><a href="http://web.archive.org/web/20211105111928/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
+<li class=" menu-item-861"><a href="http://web.archive.org/web/20211105111926/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
 </ul></div></section>	</div><!-- /.sidebar -->
 </aside><!-- /aside -->
 			</div><!-- /.row-->
 		</div><!-- /.content -->
 	</div><!-- /.wrap -->
-
-  <?php get_footer(); ?>
+<!-- contens end -->
+<?php get_footer(); ?>

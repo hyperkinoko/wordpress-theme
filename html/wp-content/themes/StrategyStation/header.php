@@ -22,10 +22,8 @@
  .has-text-align-justify{text-align:justify;}
  </style>
 
- <link rel="stylesheet" id="virtue_theme-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/themes/virtue/assets/css/virtue.css?ver=3.4.5" type="text/css" media="all"/>
- <!-- http://localhost:8888/wp-content/themes/StrategyStation/assets/css/style.css -->
-
-
+ <link rel="stylesheet" id="virtue_theme-css" href="http://localhost:8888/wp-content/themes/StrategyStation/assets/virtue.css" type="text/css" media="all"/>
+ 
  <meta name="generator" content="WordPress 5.8.1"/>
  <link rel="shortlink" href="http://localhost:8888/"/>
  <link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
@@ -124,7 +122,7 @@
  </style>
  <script>__wm.rw(0);</script>
  
-    <link rel="stylesheet" href="<?php echo get_template_directory(); ?>assets/header.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory(); ?>/assets/header.css">
  <?php wp_head(); ?>
  
 </head>
@@ -145,7 +143,7 @@
              <div id="logo" class="logocase">
                <a class="brand logofont" href="http://localhost:8888/">
                                    <div id="thelogo">
-                     <img src="http://localhost:8888/wp-admin/uploads/2017/03/400dpiLogoCropped.jpg" alt="Strategy Station Ltd" class="kad-standard-logo"/>
+                     <img src="../wp-admin/uploads/2017/03/400dpiLogoCropped.jpg" alt="Strategy Station Ltd" class="kad-standard-logo"/>
                                        </div>
                                </a>
                                <p class="kad_tagline belowlogo-text">Welcome to Strategy Station Market!</p>

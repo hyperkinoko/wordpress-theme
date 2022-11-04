@@ -6,7 +6,7 @@
  <script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
  <script type="text/javascript">
    __wm.init("http://web.archive.org/web");
-   __wm.wombat("https://strategy-station.biz/","20211102041247","http://web.archive.org/","web","/_static/",
+   __wm.wombat("http://localhost:8888/","20211102041247","http://web.archive.org/","web","/_static/",
            "1635826367");
  </script>
  <link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
@@ -67,29 +67,31 @@
      padding: 0 !important;
  }
  </style>
-     <link rel="stylesheet" id="wp-block-library-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all"/>
+     <link rel="stylesheet" id="wp-block-library-css" href="http://localhost:8888/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all"/>
  <style id="wp-block-library-inline-css" type="text/css">
  .has-text-align-justify{text-align:justify;}
  </style>
- <link rel="stylesheet" id="mediaelement-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" type="text/css" media="all"/>
- <link rel="stylesheet" id="wp-mediaelement-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1" type="text/css" media="all"/>
- <link rel="stylesheet" id="contact-form-7-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2" type="text/css" media="all"/>
- <link rel="stylesheet" id="widgetopts-styles-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all"/>
- <link rel="stylesheet" id="tablepress-default-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_theme-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/themes/virtue/assets/css/virtue.css?ver=3.4.5" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_skin-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/themes/virtue/assets/css/skins/default.css?ver=3.4.5" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_child-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/themes/childtheme/style.css?ver=1.0.0" type="text/css" media="all"/>
- <link rel="stylesheet" id="redux-google-fonts-virtue-css" href="http://web.archive.org/web/20211102041247cs_/https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLora%3A400&amp;ver=1599454463" type="text/css" media="all"/>
- <link rel="stylesheet" id="jetpack_css-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2.1" type="text/css" media="all"/>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script>
+ <link rel="stylesheet" id="mediaelement-css" href="http://localhost:8888/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" type="text/css" media="all"/>
+ <link rel="stylesheet" id="wp-mediaelement-css" href="http://localhost:8888/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1" type="text/css" media="all"/>
+ <link rel="stylesheet" id="contact-form-7-css" href="http://localhost:8888/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2" type="text/css" media="all"/>
+ <link rel="stylesheet" id="widgetopts-styles-css" href="http://localhost:8888/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all"/>
+ <link rel="stylesheet" id="tablepress-default-css" href="http://localhost:8888/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all"/>
+
+ <link rel="stylesheet" id="virtue_theme-css" href="http://localhost:8888/wp-content/themes/StrategyStation/assets/virtue.css" type="text/css" media="all"/>
+
+ <link rel="stylesheet" id="virtue_skin-css" href="http://localhost:8888/wp-content/themes/virtue/assets/css/skins/default.css?ver=3.4.5" type="text/css" media="all"/>
+ <link rel="stylesheet" id="virtue_child-css" href="http://localhost:8888/wp-content/themes/childtheme/style.css?ver=1.0.0" type="text/css" media="all"/>
+ <link rel="stylesheet" id="redux-google-fonts-virtue-css" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLora%3A400&amp;ver=1599454463" type="text/css" media="all"/>
+ <link rel="stylesheet" id="jetpack_css-css" href="http://localhost:8888/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2.1" type="text/css" media="all"/>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script>
  <!--[if lt IE 9]>
- <script type='text/javascript' src='https://strategy-station.biz/wp-content/themes/virtue/assets/js/vendor/respond.min.js?ver=5.8.1' id='virtue-respond-js'></script>
+ <script type='text/javascript' src='http://localhost:8888/wp-content/themes/virtue/assets/js/vendor/respond.min.js?ver=5.8.1' id='virtue-respond-js'></script>
  <![endif]-->
- <link rel="https://api.w.org/" href="https://strategy-station.biz/wp-json/"/><link rel="alternate" type="application/json" href="http://localhost:8888/wp-json/wp/v2/pages/29"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strategy-station.biz/xmlrpc.php?rsd"/>
- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://strategy-station.biz/wp-includes/wlwmanifest.xml"/> 
+ <link rel="https://api.w.org/" href="http://localhost:8888/wp-json/"/><link rel="alternate" type="application/json" href="http://localhost:8888/wp-json/wp/v2/pages/29"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/xmlrpc.php?rsd"/>
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-includes/wlwmanifest.xml"/> 
  <meta name="generator" content="WordPress 5.8.1"/>
  <link rel="shortlink" href="http://localhost:8888/"/>
  <link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
@@ -199,11 +201,11 @@
        <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
      </div>
      <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
-       <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://strategy-station.biz/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20211102041247" /><input type="submit" value="Go" />
+       <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://localhost:8888/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20211102041247" /><input type="submit" value="Go" />
        </form>
        <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
          <div class="s" id="wm-nav-captures" style="flex:1;">
-             <a class="t" href="/web/20211102041247*/https://strategy-station.biz/" title="See a list of every capture for this URL">7 captures</a>
+             <a class="t" href="/web/20211102041247*/http://localhost:8888/" title="See a list of every capture for this URL">7 captures</a>
        <div class="r" title="Timespan for captures of this URL">03 Aug 2018 - 22 Apr 2022</div>
        </div>
      <div class="k">
@@ -220,19 +222,19 @@
      <tbody>
         <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
        <tr class="m">
-         <td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20190503081649/http://strategy-station.biz/" title="03 May 2019"><strong>May</strong></a></td>
+         <td class="b" nowrap="nowrap"><a href="http://localhost:8888/" title="03 May 2019"><strong>May</strong></a></td>
          <td class="c" id="displayMonthEl" title="You are here: 04:12:47 Nov 02, 2021">NOV</td>
-         <td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20211225175423/http://strategy-station.biz/" title="25 Dec 2021"><strong>Dec</strong></a></td>
+         <td class="f" nowrap="nowrap"><a href="http://localhost:8888/" title="25 Dec 2021"><strong>Dec</strong></a></td>
        </tr>
        <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
        <tr class="d">
-         <td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20190503081649/http://strategy-station.biz/" title="08:16:49 May 03, 2019"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+         <td class="b" nowrap="nowrap"><a href="http://localhost:8888/" title="08:16:49 May 03, 2019"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
          <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 04:12:47 Nov 02, 2021">02</td>
-         <td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20211225175423/http://strategy-station.biz/" title="17:54:23 Dec 25, 2021"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+         <td class="f" nowrap="nowrap"><a href="http://localhost:8888/" title="17:54:23 Dec 25, 2021"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
        </tr>
        <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
        <tr class="y">
-         <td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20190503081649/http://strategy-station.biz/" title="03 May 2019"><strong>2019</strong></a></td>
+         <td class="b" nowrap="nowrap"><a href="http://localhost:8888/" title="03 May 2019"><strong>2019</strong></a></td>
          <td class="c" id="displayYearEl" title="You are here: 04:12:47 Nov 02, 2021">2021</td>
          <td class="f" nowrap="nowrap">2022</td>
        </tr>
@@ -257,7 +259,7 @@
      <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
        </div>
        <div id="wm-share" class="xxs">
-         <a href="/web/20211102041247/http://web.archive.org/screenshot/https://strategy-station.biz/"
+         <a href="/web/20211102041247/http://localhost:8888/"
             id="wm-screenshot"
             title="screenshot">
            <span class="wm-icon-screen-shot"></span>
@@ -292,7 +294,7 @@
      </div>
    </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - http://localhost:8888/</div>
  <script type="text/javascript">//<![CDATA[
- __wm.bt(675,27,25,2,"web","https://strategy-station.biz/","20211102041247",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+ __wm.bt(675,27,25,2,"web","http://localhost:8888/","20211102041247",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
    __wm.rw(1);
  //]]></script>
  <!-- END WAYBACK TOOLBAR INSERT -->
@@ -325,7 +327,7 @@
              <div id="logo" class="logocase">
                <a class="brand logofont" href="http://localhost:8888/">
                                    <div id="thelogo">
-                     <img src="http://web.archive.org/web/20211102041247im_/https://strategy-station.biz/wp-content/uploads/2017/03/400dpiLogoCropped.jpg" alt="Strategy Station Ltd" class="kad-standard-logo"/>
+                     <img src="../wp-admin/uploads/2017/03/400dpiLogoCropped.jpg" alt="Strategy Station Ltd" class="kad-standard-logo"/>
                                        </div>
                                </a>
                                <p class="kad_tagline belowlogo-text">Welcome to Strategy Station Market!</p>
@@ -420,7 +422,7 @@
      <div id="imageslider" class="container">
          <div class="flexslider kt-flexslider loading" style="max-width:1025px; margin-left: auto; margin-right:auto;" data-flex-speed="12000" data-flex-anim-speed="1000" data-flex-animation="fade" data-flex-auto="true">
              <ul class="slides">
-                 <li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2018/08/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1" width="1024" height="313" srcset="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2018/08/slide_1_2.jpg?w=1024&amp;ssl=1 1024w, http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2018/08/slide_1_2.jpg?resize=300%2C92&amp;ssl=1 300w, http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2018/08/slide_1_2.jpg?resize=768%2C235&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211102041247/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2018/08/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="313px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide26-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide26-1024x312.png?resize=300%2C91&amp;ssl=1 300w, http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide26-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211102041247/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="http://web.archive.org/web/20211102041247im_/https://i1.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="http://web.archive.org/web/20211102041247im_/https://i1.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide3-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, http://web.archive.org/web/20211102041247im_/https://i1.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide3-1024x312.png?resize=300%2C91&amp;ssl=1 300w, http://web.archive.org/web/20211102041247im_/https://i1.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide3-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211102041247/https://i1.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310" width="1025" height="310" srcset="http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide4.png?resize=300%2C92&amp;ssl=1 300w, http://web.archive.org/web/20211102041247im_/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide4.png?resize=1025%2C310&amp;ssl=1 1025w" sizes="(max-width: 1025px) 100vw, 1025px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211102041247/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310"><meta itemprop="width" content="1025px"><meta itemprop="height" content="310px"></div></li>			</ul>
+                 <li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../wp-admin/uploads/2017/03/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1" width="1024" height="313" srcset="../wp-admin/uploads/2017/03/slide_1_2.jpg?w=1024&amp;ssl=1 1024w, ../wp-admin/uploads/2017/03/slide_1_2.jpg?resize=300%2C92&amp;ssl=1 300w, ../uploads/2017/03slide_1_2.jpg?resize=768%2C235&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../wp-admin/uploads/2017/03/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="313px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="../uploads/2017/03/slide26-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, ../uploads/2017/03/slide26-1024x312.png?resize=300%2C91&amp;ssl=1 300w, ../uploads/2017/03/slide26-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="../uploads/2017/03/slide3-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, ../uploads/2017/03/slide3-1024x312.png?resize=300%2C91&amp;ssl=1 300w, ../uploads/2017/03/slide3-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310" width="1025" height="310" srcset="../uploads/2017/03/slide4.png?resize=300%2C92&amp;ssl=1 300w, ../uploads/2017/03/slide4.png?resize=1025%2C310&amp;ssl=1 1025w" sizes="(max-width: 1025px) 100vw, 1025px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310"><meta itemprop="width" content="1025px"><meta itemprop="height" content="310px"></div></li>			</ul>
          </div> <!--Flex Slides-->
      </div><!--Container-->
  </div><!--sliderclass-->
@@ -433,14 +435,14 @@
                                          <div class="row">
  <div class="col-md-6">
  <h2 class="topsection">SSFX EXCHANGE</h2>
- <p><img loading="lazy" class="alignnone size-full wp-image-157" src="https://strategy-station.biz/wp-content/uploads/2015/01/a0001_010154_m1.jpg" alt="a0001_010154_m" width="400" height="90"/></p>
+ <p><img loading="lazy" class="alignnone size-full wp-image-157" src="../wp-admin/uploads/2017/03/a0001_010154_m1.jpg" alt="a0001_010154_m" width="400" height="90"/></p>
  <h3>No ‘Last look’ rejections and No Requotes</h3>
  <p><strong>SSFX Exchange</strong> delivers the unique benefits of exchange quality execution, complete pre and post-trade transparency and a secure, level playing field for all market participants.<br/>
  For professional traders, brokers, funds, proprietary trading firms, CTAs, corporates and asset managers &#8211; our open order book, direct and anonymous market access to live, streaming limit-orders with no ‘last look’, enables precise, consistent trade execution and transparent cost of trade.</p>
  </div>
  <div class="col-md-6">
  <h2 class="topsection">Trading Technology</h2>
- <p><a href="http://localhost:8888/trading-platforms/"><img loading="lazy" class="alignnone size-full wp-image-159" src="https://strategy-station.biz/wp-content/uploads/2015/01/DeathtoStock_Wired2.jpg" alt="DeathtoStock_Wired2" width="400" height="90"/></a></p>
+ <p><a href="http://localhost:8888/trading-platforms/"><img loading="lazy" class="alignnone size-full wp-image-159" src="../wp-admin/uploads/2017/03/DeathtoStock_Wired2.jpg" alt="DeathtoStock_Wired2" width="400" height="90"/></a></p>
  <h3>Reliable and Robust platform</h3>
  <p>Clients can access the <strong>SSFX Exchange</strong> and all its functionality via our web trading platform, our smartphone apps, MetaTrader 4 (MT4). Whichever vehicle you choose you can be sure to get the institutional benefits of exchange trading.</p>
  </div>
@@ -448,14 +450,14 @@
  <div class="row">
  <div class="col-md-6">
  <h2 class="topsection">Execution Performance</h2>
- <p><a href="http://localhost:8888/trading-platforms/"><img loading="lazy" class="alignnone size-full wp-image-162" src="https://strategy-station.biz/wp-content/uploads/2015/01/20150315.jpg" alt="20150315" width="400" height="90"/></a></p>
+ <p><a href="http://localhost:8888/trading-platforms/"><img loading="lazy" class="alignnone size-full wp-image-162" src="../wp-admin/uploads/2017/03/20150315.jpg" alt="20150315" width="400" height="90"/></a></p>
  <h3>SSFX EXCHANGE and EQUINIX LD4</h3>
  <p>All our technology expertise is focused on continuously refining and improving all aspects of <strong>SSFX Exchange</strong> execution performance. Currently both buy-side and sell-side can benefit from an average trade latency of 4 ms (with internal latency of 500 microseconds) &#8211; ensuring precise, fast and consistent execution.<br/>
  Connectivity: Cross connect at Equinix LD4, PoP at Interxion, Extranet and Internet&#8221;</p>
  </div>
  <div class="col-md-6">
  <h2 class="topsection">Complete Transparency</h2>
- <p><img loading="lazy" class="alignnone size-full wp-image-164" src="https://strategy-station.biz/wp-content/uploads/2015/01/20150324.png" alt="2015031501" width="400" height="90"/></p>
+ <p><img loading="lazy" class="alignnone size-full wp-image-164" src="../wp-admin/uploads/2017/03/20150324.png" alt="2015031501" width="400" height="90"/></p>
  <h3>PRICE YOU SEE = PRICE YOU GET</h3>
  <p>There are no dealers on the <strong>SSFX Exchange</strong>, making Forex and CFD trading on the <strong>SSFX Exchange neutral and transparent</strong>. With <strong>no dealer intervention</strong> – requotes are a thing of the past – our cutting-edge technology purely and simply matches clients’ best bids to the best offers.</p>
  </div>
@@ -463,7 +465,7 @@
  <div class="row">
  <div class="col-md-6">
  <h2 class="topsection">SSFX EXCHANGE Quality</h2>
- <p><a href="http://localhost:8888/trading/"><img loading="lazy" class="alignnone size-full wp-image-168" src="https://strategy-station.biz/wp-content/uploads/2015/01/20150315021.jpg" alt="2015031502" width="400" height="90"/></a></p>
+ <p><a href="http://localhost:8888/trading/"><img loading="lazy" class="alignnone size-full wp-image-168" src="../wp-admin/uploads/2017/03/20150315021.jpg" alt="2015031502" width="400" height="90"/></a></p>
  <h3>Neutral, consistent and reliable FX execution</h3>
  <p>The unique <strong>SSFX Exchange</strong> business model addresses the fundamental changes happening within the FX market and solves two key industry problems:</p>
  <ul>
@@ -474,7 +476,7 @@
  </div>
  <div class="col-md-6">
  <h2 class="topsection">SSFX Professional</h2>
- <p><img loading="lazy" class="alignnone size-full wp-image-170" src="https://strategy-station.biz/wp-content/uploads/2015/01/2015031503.jpg" alt="2015031503" width="400" height="90"/></p>
+ <p><img loading="lazy" class="alignnone size-full wp-image-170" src="../wp-admin/uploads/2017/03/2015031503.jpg" alt="2015031503" width="400" height="90"/></p>
  <h3>SSFX Exchange &#8211; delivering exchange quality execution</h3>
  <p>The <strong>‘exchange’</strong> model is an efficient and cost-effective way to trade very liquid products, such as spot FX. In an industry currently driven by regulatory reforms,<br/>
  the <strong>SSFX Exchange</strong> vision is to deliver a transparent, neutral, level playing field to all participants in the FX market.</p>
@@ -518,12 +520,12 @@
                                                                </div>
          <div class="footercredits clearfix">
              
-             <div class="footernav clearfix"><ul id="menu-footer-legaldocument" class="footermenu"><li class=" menu-item-376"><a target="_blank" href="http://localhost:8888/wp-content/uploads/2017/03/Full-Risk-Warning.pdf"><span>Full Risk Warning</span></a></li>
- <li class=" menu-item-377"><a target="_blank" href="http://localhost:8888/wp-content/uploads/2017/03/Privacy-Policy.pdf"><span>Privacy Policy</span></a></li>
- <li class=" menu-item-378"><a target="_blank" href="http://localhost:8888/wp-content/uploads/2017/03/Trading-Execution-Risks.pdf"><span>Trading Execution Risks</span></a></li>
- <li class=" menu-item-379"><a target="_blank" href="http://localhost:8888/wp-content/uploads/2020/01/Terms-and-conditions.pdf"><span>Terms and Conditions</span></a></li>
- <li class=" menu-item-380"><a target="_blank" href="http://localhost:8888/wp-content/uploads/2017/03/Anti-Money-Laundering-Policy.pdf"><span>Anti Money Laundering Policy</span></a></li>
- <li class=" menu-item-381"><a href="http://localhost:8888/wp-content/uploads/2017/03/Frequently-Asked-Questions.pdf"><span>FAQ</span></a></li>
+             <div class="footernav clearfix"><ul id="menu-footer-legaldocument" class="footermenu"><li class=" menu-item-376"><a target="_blank" href="../wp-admin/uploads/2017/03/Full-Risk-Warning.pdf"><span>Full Risk Warning</span></a></li>
+ <li class=" menu-item-377"><a target="_blank" href="../wp-admin/uploads/2017/03/Privacy-Policy.pdf"><span>Privacy Policy</span></a></li>
+ <li class=" menu-item-378"><a target="_blank" href="../wp-admin/uploads/2017/03/Trading-Execution-Risks.pdf"><span>Trading Execution Risks</span></a></li>
+ <li class=" menu-item-379"><a target="_blank" href="../wp-admin/uploads/2017/03/2020/01/Terms-and-conditions.pdf"><span>Terms and Conditions</span></a></li>
+ <li class=" menu-item-380"><a target="_blank" href="../wp-admin/uploads/2017/03/Anti-Money-Laundering-Policy.pdf"><span>Anti Money Laundering Policy</span></a></li>
+ <li class=" menu-item-381"><a href="../wp-admin/uploads/2017/03/Frequently-Asked-Questions.pdf"><span>FAQ</span></a></li>
  </ul></div>        	<p>Copyright&copy; 2021 Strategy Station Ltd All right reserved.</p>
          </div>
  
@@ -531,36 +533,36 @@
  
  </footer>
  
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001" id="jetpack-photon-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001" id="jetpack-photon-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
  <script type="text/javascript" id="contact-form-7-js-extra">
-  <![CDATA[
+  // <![CDATA[
  var wpcf7 = {"api":{"root":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/wp-json\/","namespace":"contact-form-7\/v1"}};
-  ]]>
+  // ]]>
  </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2" id="contact-form-7-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://www.google.com/recaptcha/api.js?render=6LfCdZ8UAAAAAPTTswAmZlJOnVrk-4oC4CsuwBpu&amp;ver=3.0" id="google-recaptcha-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2" id="contact-form-7-js"></script>
+ <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LfCdZ8UAAAAAPTTswAmZlJOnVrk-4oC4CsuwBpu&amp;ver=3.0" id="google-recaptcha-js"></script>
  <script type="text/javascript" id="wpcf7-recaptcha-js-extra">
-<![CDATA[
+// <![CDATA[
  var wpcf7_recaptcha = {"sitekey":"6LfCdZ8UAAAAAPTTswAmZlJOnVrk-4oC4CsuwBpu","actions":{"homepage":"homepage","contactform":"contactform"}};
- ]]>
+//  ]]>
  </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.2" id="wpcf7-recaptcha-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/bootstrap-min.js?ver=3.4.5" id="bootstrap-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/hoverIntent.min.js?ver=1.10.1" id="hoverIntent-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=3.4.5" id="virtue_plugins-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/magnific-popup-min.js?ver=3.4.5" id="magnific-popup-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.2" id="wpcf7-recaptcha-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/themes/virtue/assets/js/min/bootstrap-min.js?ver=3.4.5" id="bootstrap-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/hoverIntent.min.js?ver=1.10.1" id="hoverIntent-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=3.4.5" id="virtue_plugins-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/themes/virtue/assets/js/min/magnific-popup-min.js?ver=3.4.5" id="magnific-popup-js"></script>
  <script type="text/javascript" id="virtue-lightbox-init-js-extra">
-<![CDATA[ 
+// <![CDATA[ 
  var virtue_lightbox = {"loading":"Loading...","of":"%curr% of %total%","error":"The Image could not be loaded."};
- ]]> 
+//  ]]> 
  </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/virtue-lightbox-init-min.js?ver=3.4.5" id="virtue-lightbox-init-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/main-min.js?ver=3.4.5" id="virtue_main-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/themes/virtue/assets/js/min/virtue-lightbox-init-min.js?ver=3.4.5" id="virtue-lightbox-init-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-content/themes/virtue/assets/js/min/main-min.js?ver=3.4.5" id="virtue_main-js"></script>
+ <script type="text/javascript" src="http://localhost:8888/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
  
          </div>Wrapper
              </body>
