@@ -1,97 +1,160 @@
 <html>
 <head>
-<meta charset="utf-8">
-     <title>Strategy Station Ltd</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Strategy Station Ltd</title>
- 
-         <!-- All in One SEO 4.1.4.4 -->
-         <meta name="robots" content="max-image-preview:large"/>
-         <link rel="canonical" href="http://localhost:8888/wp-admin"/>
-         <meta property="og:locale" content="ja_JP"/>
-         <meta property="og:site_name" content="Strategy Station Ltd |"/>
-         <meta property="og:type" content="article"/>
-         <meta property="og:title" content="Strategy Station Ltd"/>
-         <meta property="og:url" content="http://localhost:8888/wp-admin"/>
-         <meta property="article:published_time" content="2015-01-18T09:47:39+00:00"/>
-         <meta property="article:modified_time" content="2018-12-27T06:42:29+00:00"/>
-         <meta name="twitter:card" content="summary"/>
-         <meta name="twitter:domain" content="strategy-station.biz"/>
-         <meta name="twitter:title" content="Strategy Station Ltd"/>
-         <script type="application/ld+json" class="aioseo-schema">
-         
-         </script>
-         <!-- All in One SEO -->
-         <link rel="stylesheet" id="wp-block-library-css" href="http://localhost:8888/wp-admin/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all"/>       
-<meta name="google-site-verification" content="hXvIO8K6jH-X-074WTTbzNDyQziXt5e8HylCL1kw864"/>
-<link rel="stylesheet" id="mediaelement-css" href="http://localhost:8888/wp-admin/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" type="text/css" media="all"/>
- <link rel="stylesheet" id="wp-mediaelement-css" href="http://localhost:8888/wp-admin/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1" type="text/css" media="all"/>
- <link rel="stylesheet" id="contact-form-7-css" href="http://localhost:8888/wp-admin/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2" type="text/css" media="all"/>
- <link rel="stylesheet" id="widgetopts-styles-css" href="http://localhost:8888/wp-admin/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all"/>
- <link rel="stylesheet" id="tablepress-default-css" href="http://localhost:8888/wp-admin/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_theme-css" href="http://localhost:8888/wp-admin/wp-content/themes/virtue/assets/css/virtue.css?ver=3.4.5" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_skin-css" href="http://localhost:8888/wp-admin/wp-content/themes/virtue/assets/css/skins/default.css?ver=3.4.5" type="text/css" media="all"/>
- <link rel="stylesheet" id="virtue_child-css" href="http://localhost:8888/wp-admin/wp-content/themes/childtheme/style.css?ver=1.0.0" type="text/css" media="all"/>
- <link rel="stylesheet" id="redux-google-fonts-virtue-css" href="http://web.archive.org/web/20211102041247cs_/http://localhost:8888/fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLora%3A400&amp;ver=1599454463" type="text/css" media="all"/>
- <link rel="stylesheet" id="jetpack_css-css" href="http://localhost:8888/wp-admin/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2.1" type="text/css" media="all"/>
-<script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
- <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
- <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
- <script type="text/javascript" src="http://localhost:8888/wp-admin/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script>
+   <meta charset="utf-8">
 
- <link rel="https://api.w.org/" href="http://localhost:8888/wp-admin/wp-json/"/><link rel="alternate" type="application/json" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-json/wp/v2/pages/29"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strategy-station.biz/xmlrpc.php?rsd"/>
- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-admin/wp-includes/wlwmanifest.xml"/> 
+                 
+         <style type="text/css">
+ img.wp-smiley,
+ img.emoji {
+     display: inline !important;
+     border: none !important;
+     box-shadow: none !important;
+     height: 1em !important;
+     width: 1em !important;
+     margin: 0 .07em !important;
+     vertical-align: -0.1em !important;
+     background: none !important;
+     padding: 0 !important;
+ }
+ </style>
+
+ <style id="wp-block-library-inline-css" type="text/css">
+ .has-text-align-justify{text-align:justify;}
+ </style>
+
+ <link rel="stylesheet" id="virtue_theme-css" href="http://web.archive.org/web/20211102041247cs_/https://strategy-station.biz/wp-content/themes/virtue/assets/css/virtue.css?ver=3.4.5" type="text/css" media="all"/>
+ <!-- http://localhost:8888/wp-content/themes/StrategyStation/assets/css/style.css -->
+
+
  <meta name="generator" content="WordPress 5.8.1"/>
- <link rel="shortlink" href="http://localhost:8888/wp-admin/"/>
- <link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wp-admin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
- <link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/wp-admin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F&amp;format=xml"/>
-
- <?php get_template_part('parts/head'); ?>
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/header.css">
+ <link rel="shortlink" href="http://localhost:8888/"/>
+ <link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
+ <link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F&amp;format=xml"/>
+ <style type="text/css">
+ #logo {padding-top:25px;}#logo {padding-bottom:10px;}#logo {margin-left:0px;}#logo {margin-right:0px;}#nav-main {margin-top:25px;}#nav-main {margin-bottom:10px;}.headerfont, .tp-caption {font-family:Lato;}.topbarmenu ul li {font-family:Lato;}.home-message:hover {background-color:#373764; background-color: rgba(55, 55, 100, 0.6);}
+   nav.woocommerce-pagination ul li a:hover, .wp-pagenavi a:hover, .panel-heading .accordion-toggle, .variations .kad_radio_variations label:hover, .variations .kad_radio_variations label.selectedValue {border-color: #373764;}
+   a, 
+   #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .amount, .color_primary, .primary-color, #logo a.brand, #nav-main ul.sf-menu a:hover,
+   .woocommerce-message:before, .woocommerce-info:before, #nav-second ul.sf-menu a:hover, .footerclass a:hover, .posttags a:hover, .subhead a:hover, .nav-trigger-case:hover .kad-menu-name, 
+   .nav-trigger-case:hover .kad-navbtn, #kadbreadcrumbs a:hover, #wp-calendar a, .star-rating, .has-virtue-primary-color {color: #373764;}
+ .widget_price_filter .ui-slider .ui-slider-handle, .product_item .kad_add_to_cart:hover, .product_item:hover a.button:hover, .product_item:hover .kad_add_to_cart:hover, .kad-btn-primary, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li a:hover, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li.chosen a,
+ .product-category.grid_item a:hover h5, .woocommerce-message .button, .widget_layered_nav_filters ul li a, .widget_layered_nav ul li.chosen a, .wpcf7 input.wpcf7-submit, .yith-wcan .yith-wcan-reset-navigation,
+ #containerfooter .menu li a:hover, .bg_primary, .portfolionav a:hover, .home-iconmenu a:hover, p.demo_store, .topclass, #commentform .form-submit #submit, .kad-hover-bg-primary:hover, .widget_shopping_cart_content .checkout,
+ .login .form-row .button, .variations .kad_radio_variations label.selectedValue, #payment #place_order, .wpcf7 input.wpcf7-back, .shop_table .actions input[type=submit].checkout-button, .cart_totals .checkout-button, input[type="submit"].button, .order-actions .button, .has-virtue-primary-background-color {background: #373764;}a:hover, .has-virtue-primary-light-color {color: #d2c8b4;} .kad-btn-primary:hover, .login .form-row .button:hover, #payment #place_order:hover, .yith-wcan .yith-wcan-reset-navigation:hover, .widget_shopping_cart_content .checkout:hover,
+     .woocommerce-message .button:hover, #commentform .form-submit #submit:hover, .wpcf7 input.wpcf7-submit:hover, .widget_layered_nav_filters ul li a:hover, .cart_totals .checkout-button:hover,
+     .widget_layered_nav ul li.chosen a:hover, .shop_table .actions input[type=submit].checkout-button:hover, .wpcf7 input.wpcf7-back:hover, .order-actions .button:hover, input[type="submit"].button:hover, .product_item:hover .kad_add_to_cart, .product_item:hover a.button, .has-virtue-primary-light-background-color {background: #d2c8b4;}.color_gray, .subhead, .subhead a, .posttags, .posttags a, .product_meta a {color:#b9c8cd;}input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; } input[type=number] {-moz-appearance: textfield;}.quantity input::-webkit-outer-spin-button,.quantity input::-webkit-inner-spin-button {display: none;}#containerfooter h3, #containerfooter, .footercredits p, .footerclass a, .footernav ul li a {color:#d2c8b4;}.topclass {background:#05599a    ;}.footerclass {background:#353661    ;}body {background:#000000 ; background-position: 0% 0%;   }.kad-hidepostauthortop, .postauthortop {display:none;}.product_item .product_details h5 {text-transform: none;}.product_item .product_details h5 {min-height:40px;}@media (max-width: 767px) {.kad-desktop-slider {display:none;}}.entry-content p { margin-bottom:16px;}@media (min-width: 992px) {
+ body .main.col-lg-9 {
+ float:right;
+ }
+ }
+ 
+ #content .main {
+ float:right;
+ }
+ 
+ #containerfooter .col-md-3, 
+ #containerfooter .col-md-6 {
+ width:100%;
+ }
+ 
+ li.current-menu-item a:before {
+ content:"";
+ color:#CD2E30;
+ }
+ 
+ /*Home-------------------------------------*/
+ h2.topsection {
+ color:#d2c8b4;
+ }
+ 
+ /*Footer-------------------------------------*/
+ #containerfooter .menu li a {
+ max-width:100%;
+ }
+ 
+ .sidebutton a {
+ font-size:20px;
+ text-align:center;
+ font-family:Lora;
+ line-height:23px;
+ }
+ 
+ /*Table-------------------------------------*/
+ table {
+ }
+ 
+ table.stripe {
+ font-size:90%;
+ border:1px solid #eee;
+ }
+ 
+ /* 偶数行の背景色を変更 */
+ .stripe tr:nth-child(odd) td {
+ background-color:#fcf4e6;
+ }
+ 
+ .stripe tr:nth-child(odd) th {
+ background-color:#fcf4e6;
+ }
+ 
+ .stripe tr.charthead td {
+ background-color:#cfc6b2;
+ color:#353661;
+ text-align:center;
+ }
+ 
+ .stripe th {
+ padding:5px;
+ border:1px solid #eee;
+ }
+ 
+ .stripe td {
+ padding:5px;
+ border:1px solid #eee;
+ }</style><style type="text/css" class="options-output">header #logo a.brand,.logofont{font-family:Lato;line-height:40px;font-weight:400;font-style:normal;font-size:32px;}.kad_tagline{font-family:Lato;line-height:20px;font-weight:400;font-style:normal;color:#444444;font-size:14px;}.product_item .product_details h5{font-family:Lato;line-height:20px;font-weight:700;font-style:normal;font-size:16px;}h1{font-family:Lato;line-height:40px;font-weight:400;font-style:normal;font-size:38px;}h2{font-family:Lora;line-height:35px;font-weight:normal;font-style:normal;font-size:30px;}h3{font-family:Lora;line-height:25px;font-weight:400;font-style:normal;color:#373764;font-size:20px;}h4{font-family:Lora;line-height:40px;font-weight:400;font-style:normal;font-size:24px;}h5{font-family:Lato;line-height:24px;font-weight:700;font-style:normal;font-size:18px;}body{font-family:Verdana, Geneva, sans-serif;line-height:20px;font-weight:400;font-style:normal;font-size:14px;}#nav-main ul.sf-menu a{font-family:Lato;line-height:18px;font-weight:400;font-style:normal;font-size:16px;}#nav-second ul.sf-menu a{font-family:Lato;line-height:22px;font-weight:400;font-style:normal;font-size:18px;}.kad-nav-inner .kad-mnav, .kad-mobile-nav .kad-nav-inner li a,.nav-trigger-case{font-family:Lato;line-height:20px;font-weight:400;font-style:normal;font-size:16px;}</style><meta name="google-translate-customization" content="92c6a7e20bd9a10b-4541acebec75b5ff-g853538fdc7fa7c59-18"></meta>
+ <meta name="google-site-verification" content="hXvIO8K6jH-X-074WTTbzNDyQziXt5e8HylCL1kw864"/>
+ </head>
+ <body data-rsssl="1" class="home page-template page-template-page-sidebar page-template-page-sidebar-php page page-id-29 wp-embed-responsive wide"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+ <style type="text/css">
+ body {
+   margin-top:0 !important;
+   padding-top:0 !important;
+   /*min-width:800px !important;*/
+ } 
+ </style>
+ <script>__wm.rw(0);</script>
+ 
+    <link rel="stylesheet" href="<?php echo get_template_directory(); ?>assets/header.css">
  <?php wp_head(); ?>
  
 </head>
 
 <body>
+  
 
- <header class="banner headerclass" role="banner">
-   <section id="topbar" class="topclass">
-     <div class="container">
+
  
-       <div class="row">
-         <div class="col-md-6 col-sm-6 kad-topbar-left">
-           <div class="topbarmenu clearfix">
-                                   <div class="topbar_social">
-                 
-               <ul>
-                 <li><a href="" target="_self" title="" data-toggle="tooltip" data-placement="bottom" data-original-title=""><i class=""></i></a></li>              </ul>
-             </div>
-                                 </div>
-         </div>
-         <!-- close col-md-6 -->
-          <div class="col-md-6 col-sm-6 kad-topbar-right">
-           <div id="topbar-search" class="topbar-widget">
-                     </div>
-         </div> <!-- close col-md-6-->
-        </div> <!-- Close Row -->
-     </div> <!-- Close Container -->
-    </section>
+ <!-- Close Container -->
+
+     <div id="wrapper" class="container">
+     <header class="banner headerclass" role="banner">
+   
    <div class="container">
      <div class="row">
            <div class="col-md-4 clearfix kad-header-left">
              <div id="logo" class="logocase">
-               <a class="brand logofont" href="http://localhost:8888/wp-admin/">
+               <a class="brand logofont" href="http://localhost:8888/">
                                    <div id="thelogo">
                      <img src="http://localhost:8888/wp-admin/uploads/2017/03/400dpiLogoCropped.jpg" alt="Strategy Station Ltd" class="kad-standard-logo"/>
                                        </div>
                                </a>
                                <p class="kad_tagline belowlogo-text">Welcome to Strategy Station Market!</p>
                           </div> <!-- Close #logo -->
-         </div><!-- close logo span -->
+        </div><!-- close logo span -->
                    
                    
                    
-  <div style="text-align:right;"> 
+ <div style="text-align:right;"> 
             
  <div id="google_translate_element"></div><script type="text/javascript">
  function googleTranslateElementInit() {
@@ -103,28 +166,28 @@
    
    
    
-                 <div class="col-md-8 kad-header-right">
+ <div class="col-md-8 kad-header-right">
             <nav id="nav-main" class="clearfix" role="navigation">
-               <ul id="menu-glovalnavigation" class="sf-menu"><li class=" current-menu-item current_page_item menu-item-790"><a href="http://localhost:8888/wp-admin/" aria-current="page"><span>Home</span></a></li>
- <li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/wp-admin/company/"><span>Company profile</span></a>
+               <ul id="menu-glovalnavigation" class="sf-menu"><li class=" current-menu-item current_page_item menu-item-790"><a href="http://localhost:8888/" aria-current="page"><span>Home</span></a></li>
+ <li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-610"><a href="http://localhost:8888/wp-admin/company/about-us/"><span>About Strategy Station</span></a></li>
-     <li class=" menu-item-609"><a href="http://localhost:8888/wp-admin/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-     <li class=" menu-item-605"><a href="http://localhost:8888/wp-admin/company/legal-documents/"><span>Legal Documents</span></a></li>
+     <li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
+     <li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
+     <li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
  </ul>
  </li>
- <li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/wp-admin/trading/"><span>Trading Conditions</span></a>
+ <li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/"><span>Trading Conditions</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-602"><a href="http://localhost:8888/wp-admin/trading-platforms/"><span>Trading Platforms</span></a></li>
+     <li class=" menu-item-602"><a href="http://localhost:8888/trading-platforms/"><span>Trading Platforms</span></a></li>
  </ul>
  </li>
- <li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/wp-admin/company/partnerships-2/"><span>Partnerships</span></a>
+ <li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/"><span>Partnerships</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-607"><a href="http://localhost:8888/wp-admin/company/introducing-broker/"><span>Introducing Broker</span></a></li>
+     <li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
  </ul>
  </li>
- <li class=" menu-item-604"><a href="http://localhost:8888/wp-admin/customersupport/contactus-en/"><span>Contact us</span></a></li>
- <!-- <li class=" menu-item-861"><a href="http://web.archive.org/web/20211102041247/http://localhost:8888/client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li> -->
+ <li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
+ <li class=" menu-item-861"><a href="http://web.archive.org/web/20211102041247/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
  </ul>           </nav> 
            </div> <!-- Close menuclass-->
                 
@@ -138,60 +201,31 @@
              <div id="kad-mobile-nav" class="kad-mobile-nav">
                <div class="kad-nav-inner mobileclass">
                  <div class="kad-nav-collapse">
-                  <ul id="menu-glovalnavigation-1" class="kad-mnav"><li class=" current-menu-item current_page_item menu-item-790"><a href="http://localhost:8888/wp-admin/" aria-current="page"><span>Home</span></a></li>
- <li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/wp-admin/company/"><span>Company profile</span></a>
+                  <ul id="menu-glovalnavigation-1" class="kad-mnav"><li class=" current-menu-item current_page_item menu-item-790"><a href="http://localhost:8888/" aria-current="page"><span>Home</span></a></li>
+ <li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-610"><a href="http://localhost:8888/wp-admin/company/about-us/"><span>About Strategy Station</span></a></li>
-     <li class=" menu-item-609"><a href="http://localhost:8888/wp-admin/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-     <li class=" menu-item-605"><a href="http://localhost:8888/wp-admin/company/legal-documents/"><span>Legal Documents</span></a></li>
+     <li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
+     <li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
+     <li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
  </ul>
  </li>
- <li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/wp-admin/trading/"><span>Trading Conditions</span></a>
+ <li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/"><span>Trading Conditions</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-602"><a href="http://localhost:8888/wp-admin/trading-platforms/"><span>Trading Platforms</span></a></li>
+     <li class=" menu-item-602"><a href="http://localhost:8888/trading-platforms/"><span>Trading Platforms</span></a></li>
  </ul>
  </li>
- <li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/wp-admin/company/partnerships-2/"><span>Partnerships</span></a>
+ <li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/"><span>Partnerships</span></a>
  <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-607"><a href="http://localhost:8888/wp-admin/company/introducing-broker/"><span>Introducing Broker</span></a></li>
+     <li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
  </ul>
  </li>
- <li class=" menu-item-604"><a href="http://localhost:8888/wp-admin/customersupport/contactus-en/"><span>Contact us</span></a></li>
- <!-- <li class=" menu-item-861"><a href="http://web.archive.org/web/20211102041247/http://localhost:8888/client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li> -->
+ <li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
+ <li class=" menu-item-861"><a href="http://web.archive.org/web/20211102041247/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
  </ul>               </div>
              </div>
            </div>   
             
    </div> <!-- Close Container -->
-    
-   <aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="http://localhost:8888/schema.org/WPSideBar">
-     <div class="sidebar">
-         <section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" current-menu-item current_page_item menu-item-790"><a href="http://web.archive.org/web/20211102041247/http://localhost:8888/" aria-current="page"><span>Home</span></a></li>
- <li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/wp-admin/company/"><span>Company profile</span></a>
- <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-610"><a href="http://localhost:8888/wp-admin/company/about-us/"><span>About Strategy Station</span></a></li>
-     <li class=" menu-item-609"><a href="http://localhost:8888/wp-admin/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-     <li class=" menu-item-605"><a href="http://localhost:8888/wp-admin/company/legal-documents/"><span>Legal Documents</span></a></li>
- </ul>
- </li>
- <li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/wp-admin/trading/"><span>Trading Conditions</span></a>
- <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-602"><a href="http://localhost:8888/wp-admin/trading-platforms/"><span>Trading Platforms</span></a></li>
- </ul>
- </li>
- <li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/wp-admin/company/partnerships-2/"><span>Partnerships</span></a>
- <ul class="sub-menu sf-dropdown-menu dropdown">
-     <li class=" menu-item-607"><a href="http://localhost:8888/wp-admin/company/introducing-broker/"><span>Introducing Broker</span></a></li>
- </ul>
- </li>
- <li class=" menu-item-604"><a href="http://localhost:8888/wp-admin/customersupport/contactus-en/"><span>Contact us</span></a></li>
- <!-- <li class=" menu-item-861"><a href="http://web.archive.org/web/20211102041247/http://localhost:8888/client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li> -->
- </ul></div></section>	</div><!-- /.sidebar -->
- </aside><!-- /aside -->
-             </div><!-- /.row-->
-         </div><!-- /.content -->
-     </div><!-- /.wrap -->
-            
-   </div> <!-- Close Container -->
-</header>
+
+ </header>
 <main>
