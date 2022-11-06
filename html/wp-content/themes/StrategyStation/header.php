@@ -1,9 +1,7 @@
 <html class="no-js" lang="ja" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Strategy Station Ltd</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Strategy Station Ltd</title>
 
     <link rel="dns-prefetch" href="//web.archive.org/web/20211102041247/https://www.google.com/"/>
     <link rel="dns-prefetch" href="//web.archive.org/web/20211102041247/https://fonts.googleapis.com/"/>
