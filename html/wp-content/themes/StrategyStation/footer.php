@@ -18,39 +18,6 @@
    </div>
  
  </footer>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001" id="jetpack-photon-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
- <script type="text/javascript" id="contact-form-7-js-extra">
- /* <![CDATA[ */
- var wpcf7 = {"api":{"root":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/wp-json\/","namespace":"contact-form-7\/v1"}};
- /* ]]> */
- </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2" id="contact-form-7-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://www.google.com/recaptcha/api.js?render=6LfCdZ8UAAAAAPTTswAmZlJOnVrk-4oC4CsuwBpu&amp;ver=3.0" id="google-recaptcha-js"></script>
- <script type="text/javascript" id="wpcf7-recaptcha-js-extra">
- /* <![CDATA[ */
- var wpcf7_recaptcha = {"sitekey":"6LfCdZ8UAAAAAPTTswAmZlJOnVrk-4oC4CsuwBpu","actions":{"homepage":"homepage","contactform":"contactform"}};
- /* ]]> */
- </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.2" id="wpcf7-recaptcha-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/bootstrap-min.js?ver=3.4.5" id="bootstrap-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/hoverIntent.min.js?ver=1.10.1" id="hoverIntent-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=3.4.5" id="virtue_plugins-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/magnific-popup-min.js?ver=3.4.5" id="magnific-popup-js"></script>
- <script type="text/javascript" id="virtue-lightbox-init-js-extra">
- /* <![CDATA[ */
- var virtue_lightbox = {"loading":"Loading...","of":"%curr% of %total%","error":"The Image could not be loaded."};
- /* ]]> */
- </script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/virtue-lightbox-init-min.js?ver=3.4.5" id="virtue-lightbox-init-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-content/themes/virtue/assets/js/min/main-min.js?ver=3.4.5" id="virtue_main-js"></script>
- <script type="text/javascript" src="http://web.archive.org/web/20211102041247js_/https://strategy-station.biz/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
- 
-         </div><!--Wrapper-->
-         
 <?php wp_footer(); ?>
 </body>
 </html>

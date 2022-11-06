@@ -24,6 +24,7 @@
         <?php the_content(); ?>
     <div class="row"></div>
                 </div>
+                </div>
                         </div><!-- /.main -->
 <?php get_sidebar(); ?>
                 </div><!-- /.row-->
