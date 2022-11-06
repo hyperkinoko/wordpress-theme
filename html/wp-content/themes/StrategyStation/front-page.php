@@ -1,24 +1,8 @@
 <?php get_header(); ?>
-         <div class="wrap contentclass" role="document">
-
-     <div class="sliderclass kad-mobile-slider">
-     <div id="imageslider" class="container">
-         <div id="mflex" class="flexslider kt-flexslider loading" style="max-width:480px; margin-left: auto; margin-right:auto;" data-flex-speed="7000" data-flex-anim-speed="600" data-flex-animation="fade" data-flex-auto="true">
-             <ul class="slides">
-                 <li></li>			</ul>
-         </div> <!--Flex Slides-->
-     </div><!--Container-->
- </div><!--feat--><div class="sliderclass kad-desktop-slider">
-     <div id="imageslider" class="container">
-         <div class="flexslider kt-flexslider loading" style="max-width:1025px; margin-left: auto; margin-right:auto;" data-flex-speed="12000" data-flex-anim-speed="1000" data-flex-animation="fade" data-flex-auto="true">
-             <ul class="slides">
-                 <li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="<?= get_template_directory_uri(); ?>/assets/images/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1" width="1024" height="313" srcset="<?= get_template_directory_uri(); ?>/assets/images/slide_1_2.jpg?w=1024&amp;ssl=1 1024w, <?= get_template_directory_uri(); ?>/assets/images/slide_1_2.jpg?resize=300%2C92&amp;ssl=1 300w, ../uploads/2017/03slide_1_2.jpg?resize=768%2C235&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="<?= get_template_directory_uri(); ?>/assets/images/slide_1_2.jpg?fit=1024%2C313&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="313px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="../uploads/2017/03/slide26-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, ../uploads/2017/03/slide26-1024x312.png?resize=300%2C91&amp;ssl=1 300w, ../uploads/2017/03/slide26-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide26-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1" width="1024" height="312" srcset="../uploads/2017/03/slide3-1024x312.png?resize=1024%2C312&amp;ssl=1 1024w, ../uploads/2017/03/slide3-1024x312.png?resize=300%2C91&amp;ssl=1 300w, ../uploads/2017/03/slide3-1024x312.png?resize=768%2C234&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide3-1024x312.png?fit=1024%2C312&amp;ssl=1"><meta itemprop="width" content="1024px"><meta itemprop="height" content="312px"></div></li><li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310" width="1025" height="310" srcset="../uploads/2017/03/slide4.png?resize=300%2C92&amp;ssl=1 300w, ../uploads/2017/03/slide4.png?resize=1025%2C310&amp;ssl=1 1025w" sizes="(max-width: 1025px) 100vw, 1025px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../uploads/2017/03/slide4.png?fit=1170%2C357&amp;ssl=1&amp;resize=1025%2C310"><meta itemprop="width" content="1025px"><meta itemprop="height" content="310px"></div></li>			</ul>
-         </div> <!--Flex Slides-->
-     </div><!--Container-->
- </div><!--sliderclass-->
-
+ <div class="wrap contentclass" role="document">
 
      <div id="content" class="container homepagecontent container-contained">
+         <?php echo do_shortcode('[metaslider id="42"]'); ?>
          <div class="row">
              <div class="main col-lg-9 col-md-8" role="main">
                  <div class="entry-content" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
