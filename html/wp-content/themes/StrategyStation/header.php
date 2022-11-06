@@ -3,6 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" id="virtue_theme-css" href="<?= get_template_directory_uri(); ?>/assets/css/virtue.css" type="text/css" media="all"/>
+    <link rel="stylesheet" id="additional-css" href="<?= get_template_directory_uri(); ?>/style.css" type="text/css" media="all"/>
 <?php wp_head(); ?>
 </head>
 <body data-rsssl="1" class="home page-template page-template-page-sidebar page-template-page-sidebar-php page page-id-29 wp-embed-responsive wide">

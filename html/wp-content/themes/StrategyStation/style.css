@@ -2,3 +2,7 @@
     Theme Name: Strategy Station Ltd. Original Theme
  */
 @charset "utf-8";
+
+body {
+    padding-top: 2rem;
+}
