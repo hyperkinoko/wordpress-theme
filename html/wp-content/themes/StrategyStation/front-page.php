@@ -2,7 +2,7 @@
  <div class="wrap contentclass" role="document">
 
      <div id="content" class="container homepagecontent container-contained">
-         <?php echo do_shortcode('[metaslider id="42"]'); ?>
+         <?php the_content(); ?>
          <div class="row">
              <div class="main col-lg-9 col-md-8" role="main">
                  <div class="entry-content" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
