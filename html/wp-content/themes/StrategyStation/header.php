@@ -147,29 +147,8 @@
 <?php wp_head(); ?>
 </head>
 <body data-rsssl="1" class="home page-template page-template-page-sidebar page-template-page-sidebar-php page page-id-29 wp-embed-responsive wide">
-<div id="kt-skip-link"><a href="#content">Skip to Main Content</a></div>
 <div id="wrapper" class="container">
     <header class="banner headerclass" role="banner">
-        <section id="topbar" class="topclass">
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 kad-topbar-left">
-                        <div class="topbarmenu clearfix">
-                            <div class="topbar_social">
-
-                                <ul>
-                                    <li><a href="" target="_self" title="" data-toggle="tooltip" data-placement="bottom" data-original-title=""><i class=""></i></a></li>              </ul>
-                            </div>
-                        </div>
-                    </div><!-- close col-md-6 -->
-                    <div class="col-md-6 col-sm-6 kad-topbar-right">
-                        <div id="topbar-search" class="topbar-widget">
-                        </div>
-                    </div> <!-- close col-md-6-->
-                </div> <!-- Close Row -->
-            </div> <!-- Close Container -->
-        </section>
         <div class="container">
             <div class="row">
                 <div class="col-md-4 clearfix kad-header-left">
@@ -255,7 +234,5 @@
                         </ul>               </div>
                 </div>
             </div>
-
         </div> <!-- Close Container -->
-
     </header>
