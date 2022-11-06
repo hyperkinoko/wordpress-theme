@@ -3,35 +3,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" id="wp-block-library-css" href="<?= home_url(); ?>/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all"/>
-    <style id="wp-block-library-inline-css" type="text/css">
-        .has-text-align-justify{text-align:justify;}
-    </style>
-    <link rel="stylesheet" id="mediaelement-css" href="<?= home_url(); ?>/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" type="text/css" media="all"/>
-    <link rel="stylesheet" id="wp-mediaelement-css" href="<?= home_url(); ?>/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1" type="text/css" media="all"/>
-    <link rel="stylesheet" id="contact-form-7-css" href="<?= home_url(); ?>/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2" type="text/css" media="all"/>
-    <link rel="stylesheet" id="widgetopts-styles-css" href="<?= home_url(); ?>/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all"/>
-    <link rel="stylesheet" id="tablepress-default-css" href="<?= home_url(); ?>/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all"/>
-
     <link rel="stylesheet" id="virtue_theme-css" href="<?= get_template_directory_uri(); ?>/assets/css/virtue.css" type="text/css" media="all"/>
 
-    <link rel="stylesheet" id="virtue_skin-css" href="<?= get_template_directory_uri(); ?>/assets/css/skins/default.css?ver=3.4.5" type="text/css" media="all"/>
-    <link rel="stylesheet" id="virtue_child-css" href="<?= get_template_directory_uri(); ?>/assets/css/style.css?ver=1.0.0" type="text/css" media="all"/>
-    <link rel="stylesheet" id="redux-google-fonts-virtue-css" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLora%3A400&amp;ver=1599454463" type="text/css" media="all"/>
-    <link rel="stylesheet" id="jetpack_css-css" href="<?= home_url(); ?>/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2.1" type="text/css" media="all"/>
-    <script type="text/javascript" src="<?= home_url(); ?>/wp-content/plugins/anything-popup/anything-popup.js?ver=5.8.1" id="anything-popup-js-js"></script>
-    <script type="text/javascript" src="<?= home_url(); ?>/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
-    <script type="text/javascript" src="<?= home_url(); ?>/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-    <script type="text/javascript" src="<?= home_url(); ?>/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.8.1" id="itro-scripts-js"></script>
-    <!--[if lt IE 9]>
- <script type='text/javascript' src='<?= get_template_directory_uri(); ?>/assets/js/vendor/respond.min.js?ver=5.8.1' id='virtue-respond-js'></script>
- <![endif]-->
-    <link rel="https://api.w.org/" href="<?= home_url(); ?>/wp-json/"/><link rel="alternate" type="application/json" href="<?= home_url(); ?>/wp-json/wp/v2/pages/29"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="<?= home_url(); ?>/xmlrpc.php?rsd"/>
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?= home_url(); ?>/wp-includes/wlwmanifest.xml"/>
-    <meta name="generator" content="WordPress 5.8.1"/>
-    <link rel="shortlink" href="<?= home_url(); ?>/"/>
-    <link rel="alternate" type="application/json+oembed" href="<?= home_url(); ?>/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F"/>
-    <link rel="alternate" type="text/xml+oembed" href="<?= home_url(); ?>/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrategy-station.biz%2F&amp;format=xml"/>
     <style type="text/css">#logo {padding-top:25px;}#logo {padding-bottom:10px;}#logo {margin-left:0px;}#logo {margin-right:0px;}#nav-main {margin-top:25px;}#nav-main {margin-bottom:10px;}.headerfont, .tp-caption {font-family:Lato;}.topbarmenu ul li {font-family:Lato;}.home-message:hover {background-color:#373764; background-color: rgba(55, 55, 100, 0.6);}
         nav.woocommerce-pagination ul li a:hover, .wp-pagenavi a:hover, .panel-heading .accordion-toggle, .variations .kad_radio_variations label:hover, .variations .kad_radio_variations label.selectedValue {border-color: #373764;}
         a, #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .amount, .color_primary, .primary-color, #logo a.brand, #nav-main ul.sf-menu a:hover,
