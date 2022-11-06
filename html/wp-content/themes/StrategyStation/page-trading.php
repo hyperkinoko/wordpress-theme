@@ -15,9 +15,6 @@
             </ul>
         </div> <!--Flex Slides-->
     </section>
-    <div class="">
-        <img src="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg">
-    </div>
     <div id="pageheader" class="titleclass">
 	<div class="container">
 		<div class="page-header">
