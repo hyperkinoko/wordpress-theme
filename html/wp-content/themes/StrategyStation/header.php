@@ -1,17 +1,5 @@
 <html class="no-js" lang="ja" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
-<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-    <script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app225.us.archive.org';v.server_ms=583;archive_analytics.send_pageview({});});</script>
-    <script type="text/javascript" src="/_static/js/bundle-playback.js?v=U25-Dms9" charset="utf-8"></script>
-    <script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
-    <script type="text/javascript">
-        __wm.init("http://web.archive.org/web");
-        __wm.wombat("<?= home_url(); ?>/","20211102041247","http://web.archive.org/","web","/_static/",
-            "1635826367");
-    </script>
-    <link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
-    <link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
-    <!-- End Wayback Rewrite JS Include -->
-
+<head>
     <meta charset="utf-8">
     <title>Strategy Station Ltd</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
