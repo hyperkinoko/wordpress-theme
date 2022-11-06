@@ -5,24 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Strategy Station Ltd</title>
 
-    <!-- All in One SEO 4.1.4.4 -->
-    <meta name="robots" content="max-image-preview:large"/>
-    <link rel="canonical" href="<?= home_url(); ?>/"/>
-    <meta property="og:locale" content="ja_JP"/>
-    <meta property="og:site_name" content="Strategy Station Ltd |"/>
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Strategy Station Ltd"/>
-    <meta property="og:url" content="<?= home_url(); ?>/"/>
-    <meta property="article:published_time" content="2015-01-18T09:47:39+00:00"/>
-    <meta property="article:modified_time" content="2018-12-27T06:42:29+00:00"/>
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:domain" content="strategy-station.biz"/>
-    <meta name="twitter:title" content="Strategy Station Ltd"/>
-    <script type="application/ld+json" class="aioseo-schema">
-        {"@context":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#website","url":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/","name":"Strategy Station Ltd","inLanguage":"ja","publisher":{"@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#organization","name":"Strategy Station Ltd","url":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/"},{"@type":"BreadcrumbList","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/","name":"\u30db\u30fc\u30e0","url":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/"}}]},{"@type":"WebPage","@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#webpage","url":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/","name":"Strategy Station Ltd","inLanguage":"ja","isPartOf":{"@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#website"},"breadcrumb":{"@id":"http:\/\/web.archive.org\/web\/20211102041247\/https:\/\/strategy-station.biz\/#breadcrumblist"},"datePublished":"2015-01-18T09:47:39+00:00","dateModified":"2018-12-27T06:42:29+00:00"}]}
-    </script>
-    <!-- All in One SEO -->
-
     <link rel="dns-prefetch" href="//web.archive.org/web/20211102041247/https://www.google.com/"/>
     <link rel="dns-prefetch" href="//web.archive.org/web/20211102041247/https://fonts.googleapis.com/"/>
     <link rel="dns-prefetch" href="//web.archive.org/web/20211102041247/https://s.w.org/"/>
