@@ -6,12 +6,12 @@
                                                                </div>
          <div class="footercredits clearfix">
              
-             <div class="footernav clearfix"><ul id="menu-footer-legaldocument" class="footermenu"><li class=" menu-item-376"><a target="_blank" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2017/03/Full-Risk-Warning.pdf"><span>Full Risk Warning</span></a></li>
- <li class=" menu-item-377"><a target="_blank" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2017/03/Privacy-Policy.pdf"><span>Privacy Policy</span></a></li>
- <li class=" menu-item-378"><a target="_blank" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2017/03/Trading-Execution-Risks.pdf"><span>Trading Execution Risks</span></a></li>
- <li class=" menu-item-379"><a target="_blank" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2020/01/Terms-and-conditions.pdf"><span>Terms and Conditions</span></a></li>
- <li class=" menu-item-380"><a target="_blank" href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2017/03/Anti-Money-Laundering-Policy.pdf"><span>Anti Money Laundering Policy</span></a></li>
- <li class=" menu-item-381"><a href="http://web.archive.org/web/20211102041247/https://strategy-station.biz/wp-content/uploads/2017/03/Frequently-Asked-Questions.pdf"><span>FAQ</span></a></li>
+             <div class="footernav clearfix"><ul id="menu-footer-legaldocument" class="footermenu"><li class=" menu-item-376"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Full-Risk-Warning.pdf"><span>Full Risk Warning</span></a></li>
+ <li class=" menu-item-377"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Privacy-Policy.pdf"><span>Privacy Policy</span></a></li>
+ <li class=" menu-item-378"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Trading-Execution-Risks.pdf"><span>Trading Execution Risks</span></a></li>
+ <li class=" menu-item-379"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Terms-and-conditions.pdf"><span>Terms and Conditions</span></a></li>
+ <li class=" menu-item-380"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Anti-Money-Laundering-Policy.pdf"><span>Anti Money Laundering Policy</span></a></li>
+ <li class=" menu-item-381"><a target="_blank" href="<?= get_template_directory_uri(); ?>/assets/pdf/Frequently-Asked-Questions.pdf"><span>FAQ</span></a></li>
  </ul></div>        	<p>Copyright&copy; 2021 Strategy Station Ltd All right reserved.</p>
          </div>
  

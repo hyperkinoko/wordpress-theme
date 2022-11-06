@@ -16,8 +16,8 @@
 				<div class="row">
 <div class="col-md-6">
 <p><strong>Please select language.</strong><br/>
-<a href="<?= home_url(); ?>/customersupport/contactus-en/contactus-jp/"><img loading="lazy" class="alignleft wp-image-95 size-medium" src="<?= get_template_directory_uri(); ?>/assets/images/jp100.gif" alt="14211180800_16c4799986_b" width="50" height="33"/></a><br/>
-<a href="/web/20211113060810/https://strategy-station.biz/customersupport/contactus-en/contactus-jp/">日本語はこちら</a></p>
+<a href="<?= home_url(); ?>/customersupport/contactus-jp/"><img loading="lazy" class="alignleft wp-image-95 size-medium" src="<?= get_template_directory_uri(); ?>/assets/images/jp100.gif" alt="14211180800_16c4799986_b" width="50" height="33"/></a><br/>
+<a href="<?= home_url(); ?>/customersupport/contactus-jp/">日本語はこちら</a></p>
 <div class="clearfix"></div>
 <p><a href="<?= home_url(); ?>/customersupport/contactus-en/"><img loading="lazy" class="alignleft wp-image-95 size-medium" src="<?= get_template_directory_uri(); ?>/assets/images/uk100.gif" alt="14211180800_16c4799986_b" width="50" height="33"/></a><br/>
 <a href="<?= home_url(); ?>/customersupport/contactus-en/">ENGLISH</a></p>

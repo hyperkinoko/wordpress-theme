@@ -13,7 +13,7 @@
 	<div class="row">
 		<div class="main col-lg-9 col-md-8" role="main">
 			<div class="entry-content" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
-				<p><img loading="lazy" class="alignnone size-full wp-image-252" src="../wp-admin/uploads/2017/03/aboutcc3.jpg" alt="aboutcc3" width="940" height="252"/></p>
+				<p><img loading="lazy" class="alignnone size-full wp-image-252" src="<?= get_template_directory_uri(); ?>/assets/images/aboutcc3.jpg" alt="aboutcc3" width="940" height="252"/></p>
 <h2>Regulation and Compliance</h2>
 <p><strong>Strategy Station Limited (&#8220;SSFX&#8221;) </strong>is licensed and regulated by the Labuan Financial Services Authority. No.LL14677. The company is legally obligated to follow all laws of the Labuan Financial Service Authority and rules and conditions of the Labuan Financial Service Authority of the International Financial Services Commission.We take pride in our strong culture of regulation and compliance. The security of our client funds is of paramount importance.</p>
 <p>Headquartered in Malaysia and supported by our worldwide Customer Management Centre&#8217;s,<strong>SSFX</strong> offers its clients an unparalleled trading experience with excellent multilingual support in an effort to provide its clients with every advantage possible in order to facilitate their trading activities.<br/>
@@ -39,30 +39,7 @@
 </ul>
 			</div>
 					</div><!-- /.main -->
-<aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
-	<div class="sidebar">
-		<section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" menu-item-790"><a href="http://localhost:8888/"><span>Home</span></a></li>
-<li class=" current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" current-menu-item current_page_item menu-item-610"><a href="http://localhost:8888/company/about-us/" aria-current="page"><span>About Strategy Station</span></a></li>
-	<li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-	<li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
-</ul>
-</li>
-<li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/"><span>Trading Conditions</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-602"><a href="http://localhost:8888/trading-platforms/"><span>Trading Platforms</span></a></li>
-</ul>
-</li>
-<li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/"><span>Partnerships</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
-</ul>
-</li>
-<li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
-<li class=" menu-item-861"><a href="http://web.archive.org/web/20211105111918/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
-</ul></div></section>	</div><!-- /.sidebar -->
-</aside><!-- /aside -->
+<?php get_sidebar(); ?>
 			</div><!-- /.row-->
 		</div><!-- /.content -->
 	</div><!-- /.wrap -->

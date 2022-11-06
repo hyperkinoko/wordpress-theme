@@ -5,7 +5,7 @@
 	<section class="pagefeat container">
 	<div class="flexslider loading kt-flexslider" style="max-width:1140px;" data-flex-speed="7000" data-flex-anim-speed="400" data-flex-animation="fade" data-flex-auto="true">
 		<ul class="slides">
-			<li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../wp-admin/uploads/2017/03/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200" width="1140" height="200" srcset="../wp-admin/uploads/2017/03/trading-1140x2001-1.jpg?w=1140&amp;ssl=1 1140w, ../wp-admin/uploads/2017/03/trading-1140x2001-1.jpg?resize=300%2C53&amp;ssl=1 300w, ../wp-admin/uploads/2017/03/trading-1140x2001-1.jpg?resize=768%2C135&amp;ssl=1 768w, ../wp-admin/uploads/2017/03/trading-1140x2001-1.jpg?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211120111530/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px"></div></li>		</ul>
+			<li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200" width="1140" height="200" srcset="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?w=1140&amp;ssl=1 1140w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=300%2C53&amp;ssl=1 300w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=768%2C135&amp;ssl=1 768w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211120111530/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px"></div></li>		</ul>
 	</div> <!--Flex Slides-->
 </section><div id="pageheader" class="titleclass">
 	<div class="container">
@@ -753,39 +753,17 @@ View &gt; Market Watch The Right Click on the Market Watch and select <strong>&#
 Then choose the currency pair you wish to check and select <strong>&#8220;Properties&#8221;</strong>.</p>
 <div class="row">
 <div class="col-md-6">
-<p><img loading="lazy" class="alignnone size-full wp-image-222" src="../wp-admin/uploads/2017/03/swapscreen1.png" alt="swapscreen1" width="209" height="335"/></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-222" src="<?= get_template_directory_uri(); ?>/assets/images/swapscreen1.png" alt="swapscreen1" width="209" height="335"/></p>
 </div>
 <div class="col-md-6">
-<p><img loading="lazy" class="alignnone size-full wp-image-223" src="../wp-admin/uploads/2017/03/swapscreen2.png" alt="swapscreen2" width="259" height="256"/></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-223" src="<?= get_template_directory_uri(); ?>/assets/images/swapscreen2.png" alt="swapscreen2" width="259" height="256"/></p>
 </div>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 				</div>
-							</div><!-- /.main --><aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
-	<div class="sidebar">
-		<section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" menu-item-790"><a href="http://localhost:8888/"><span>Home</span></a></li>
-<li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
-	<li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-	<li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
-</ul>
-</li>
-<li class=" current-menu-item current_page_item sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/" aria-current="page"><span>Trading Conditions</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-602"><a href="http://localhost:8888/trading-platforms/"><span>Trading Platforms</span></a></li>
-</ul>
-</li>
-<li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/"><span>Partnerships</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
-</ul>
-</li>
-<li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
-<li class=" menu-item-861"><a href="http://web.archive.org/web/20211120111530/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
-</ul></div></section>	</div><!-- /.sidebar -->
-</aside><!-- /aside -->
+							</div><!-- /.main -->
+<?php get_sidebar(); ?>
 			</div><!-- /.row-->
 		</div><!-- /.content -->
 	</div><!-- /.wrap -->

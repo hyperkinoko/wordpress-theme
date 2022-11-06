@@ -5,7 +5,7 @@
 	<section class="pagefeat container">
 	<div class="flexslider loading kt-flexslider" style="max-width:1140px;" data-flex-speed="7000" data-flex-anim-speed="400" data-flex-animation="fade" data-flex-auto="true">
 		<ul class="slides">
-			<li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="../wp-admin/uploads/2017/03/22-1140x200-1.png?fit=1140%2C200&amp;ssl=1" width="1140" height="200" srcset="../wp-admin/uploads/2017/03/22-1140x200-1.png?w=1140&amp;ssl=1 1140w, ../wp-admin/uploads/2017/03/22-1140x200-1.png?resize=300%2C53&amp;ssl=1 300w, ../wp-admin/uploads/2017/03/22-1140x200-1.png?resize=768%2C135&amp;ssl=1 768w, ../wp-admin/uploads/2017/03/22-1140x200-1.png?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../wp-admin/uploads/2015/03/22-1140x200-1.png?fit=1140%2C200&amp;ssl=1"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px"></div></li>		</ul>
+			<li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="<?= get_template_directory_uri(); ?>/assets/images/22-1140x200-1.png?fit=1140%2C200&amp;ssl=1" width="1140" height="200" srcset="<?= get_template_directory_uri(); ?>/assets/images/22-1140x200-1.png?w=1140&amp;ssl=1 1140w, <?= get_template_directory_uri(); ?>/assets/images/22-1140x200-1.png?resize=300%2C53&amp;ssl=1 300w, <?= get_template_directory_uri(); ?>/assets/images/22-1140x200-1.png?resize=768%2C135&amp;ssl=1 768w, <?= get_template_directory_uri(); ?>/assets/images/22-1140x200-1.png?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="../wp-admin/uploads/2015/03/22-1140x200-1.png?fit=1140%2C200&amp;ssl=1"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px"></div></li>		</ul>
 	</div> <!--Flex Slides-->
 </section><div id="pageheader" class="titleclass">
 	<div class="container">
@@ -19,7 +19,7 @@
 			<div class="main col-lg-9 col-md-8" role="main">
 				<div class="entry-content" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
 					<p>&nbsp;</p>
-<p><img loading="lazy" class="alignnone wp-image-718 size-full" src="../wp-admin/uploads/2017/03/partners-1.jpg?resize=1140%2C457" width="1140" height="457" srcset="../wp-admin/uploads/2017/03/partners-1.jpg?resize=1140%2C457 1600w, ../wp-admin/uploads/2017/03/partners-1-300x120.jpg 300w, ../wp-admin/uploads/2017/03/partners-1-768x308.jpg 768w, ../wp-admin/uploads/2017/03/partners-1-1024x410.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" data-recalc-dims="1"/></p>
+<p><img loading="lazy" class="alignnone wp-image-718 size-full" src="<?= get_template_directory_uri(); ?>/assets/images/partners-1.jpg?resize=1140%2C457" width="1140" height="457" srcset="<?= get_template_directory_uri(); ?>/assets/images/partners-1.jpg?resize=1140%2C457 1600w, <?= get_template_directory_uri(); ?>/assets/images/partners-1-300x120.jpg 300w, <?= get_template_directory_uri(); ?>/assets/images/partners-1-768x308.jpg 768w, <?= get_template_directory_uri(); ?>/assets/images/partners-1-1024x410.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" data-recalc-dims="1"/></p>
 <div class="row">
 <div class="col-md-6">
 <p>A partnership with Strategy Station can boost your company&#8217;s performance and create new revenue streams. We will strive to meet and exceed your clients&#8217; expectations by providing exceptional trading terms, advanced tools and world class support.</p>
@@ -69,30 +69,8 @@ We offer leading tools for money managers including Multi-Account Management too
 </div>
 <div class="clearfix"></div>
 				</div>
-							</div><!-- /.main --><aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
-	<div class="sidebar">
-		<section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" menu-item-790"><a href="http://localhost:8888/"><span>Home</span></a></li>
-<li class=" current-page-ancestor current-page-parent sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
-	<li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-	<li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
-</ul>
-</li>
-<li class=" sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/"><span>Trading Conditions</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-602"><a href="http://localhost:8888/trading-platforms/"><span>Trading Platforms</span></a></li>
-</ul>
-</li>
-<li class=" current-menu-item current_page_item sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/" aria-current="page"><span>Partnerships</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
-</ul>
-</li>
-<li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
-<li class=" menu-item-861"><a href="http://web.archive.org/web/20211120111532/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
-</ul></div></section>	</div><!-- /.sidebar -->
-</aside><!-- /aside -->
+							</div><!-- /.main -->
+<?php get_sidebar(); ?>
 			</div><!-- /.row-->
 		</div><!-- /.content -->
 	</div><!-- /.wrap -->

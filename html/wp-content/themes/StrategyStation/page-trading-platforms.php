@@ -20,13 +20,13 @@
 SSFX MT4 has taken the MetaTrader 4 platform and introduced its liquidity to create a user-friendly front-end trading interface with Direct Market Access and EQUINIX DATA Center’s fast execution.</p>
 </div>
 <div class="col-md-4">
-<p><img loading="lazy" class="alignnone size-full wp-image-176" src="../wp-admin/uploads/2017/03/PC.png" alt="PC" width="282" height="214"/></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-176" src="<?= get_template_directory_uri(); ?>/assets/images/PC.png" alt="PC" width="282" height="214"/></p>
 </div>
 </div>
 <div class="space_40 clearfix"></div>
 <div class="row">
 <div class="col-md-4">
-<p><img loading="lazy" class=" size-full wp-image-234 alignright" src="../wp-admin/uploads/2017/03/automate.png" alt="automate" width="135" height="118"/></p>
+<p><img loading="lazy" class=" size-full wp-image-234 alignright" src="<?= get_template_directory_uri(); ?>/assets/images/automate.png" alt="automate" width="135" height="118"/></p>
 </div>
 <div class="col-md-8">
 <h2>Automate your Trading</h2>
@@ -40,7 +40,7 @@ SSFX MT4 has taken the MetaTrader 4 platform and introduced its liquidity to cre
 <p>Trading on MetaTrader 4 with Direct market access (“DMA”) you deep access to liquidity not found with other providers. You will notice the difference trading on DMA’s MT4.</p>
 </div>
 <div class="col-md-4">
-<p><img loading="lazy" class="alignnone size-full wp-image-239" src="../wp-admin/uploads/2017/03/directmarketaccess.jpg" alt="directmarketaccess" width="300" height="200"/></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-239" src="<?= get_template_directory_uri(); ?>/assets/images/directmarketaccess.jpg" alt="directmarketaccess" width="300" height="200"/></p>
 </div>
 </div>
 <h2>Why trade on SSFX MetaTrader 4?</h2>
@@ -55,30 +55,7 @@ SSFX MT4 has taken the MetaTrader 4 platform and introduced its liquidity to cre
 <p class="sidebutton"><a id="kadbtn968" class="btn button btn-shortcode kad-btn kad-btn-primary" style="color: #fff;" href="http://localhost:8888/file/ccfx4setup.exe" target="_self" rel="noopener noreferrer">Go to free download of the MT4</a></p>
 			</div>
 					</div><!-- /.main -->
-<aside class="col-lg-3 col-md-4 kad-sidebar" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
-	<div class="sidebar">
-		<section id="nav_menu-2" class="widget-1 widget-first extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_nav_menu"><div class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget-inner"><ul id="menu-glovalnavigation-2" class="menu"><li class=" menu-item-790"><a href="http://localhost:8888/"><span>Home</span></a></li>
-<li class=" sf-dropdown menu-item-601"><a href="http://localhost:8888/company/"><span>Company profile</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-610"><a href="http://localhost:8888/company/about-us/"><span>About Strategy Station</span></a></li>
-	<li class=" menu-item-609"><a href="http://localhost:8888/company/regulation-and-licensing/"><span>Regulation and Licensing</span></a></li>
-	<li class=" menu-item-605"><a href="http://localhost:8888/company/legal-documents/"><span>Legal Documents</span></a></li>
-</ul>
-</li>
-<li class=" current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor sf-dropdown menu-item-603"><a href="http://localhost:8888/trading/"><span>Trading Conditions</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" current-menu-item current_page_item menu-item-602"><a href="http://localhost:8888/trading-platforms/" aria-current="page"><span>Trading Platforms</span></a></li>
-</ul>
-</li>
-<li class=" sf-dropdown menu-item-613"><a href="http://localhost:8888/company/partnerships-2/"><span>Partnerships</span></a>
-<ul class="sub-menu sf-dropdown-menu dropdown">
-	<li class=" menu-item-607"><a href="http://localhost:8888/company/introducing-broker/"><span>Introducing Broker</span></a></li>
-</ul>
-</li>
-<li class=" menu-item-604"><a href="http://localhost:8888/customersupport/contactus-en/"><span>Contact us</span></a></li>
-<li class=" menu-item-861"><a href="http://web.archive.org/web/20211105111920/https://client.strategy-sta.com/ss/login.html"><span>LOGIN</span></a></li>
-</ul></div></section>	</div><!-- /.sidebar -->
-</aside><!-- /aside -->
+<?php get_sidebar(); ?>
 			</div><!-- /.row-->
 		</div><!-- /.content -->
 	</div><!-- /.wrap -->
