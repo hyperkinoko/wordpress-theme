@@ -52,7 +52,7 @@ SSFX MT4 has taken the MetaTrader 4 platform and introduced its liquidity to cre
 <li>Available in over 30 languages</li>
 <li>Lightning Fast Execution (EQUINIX Data Center and DMA)</li>
 </ul>
-<p class="sidebutton"><a id="kadbtn968" class="btn button btn-shortcode kad-btn kad-btn-primary" style="color: #fff;" href="http://localhost:8888/file/ccfx4setup.exe" target="_self" rel="noopener noreferrer">Go to free download of the MT4</a></p>
+<p class="sidebutton"><a id="kadbtn968" class="btn button btn-shortcode kad-btn kad-btn-primary" style="color: #fff;" href="https://www.metatrader4.com/en/download" target="_blank" rel="noopener noreferrer">Go to free download of the MT4</a></p>
 			</div>
 					</div><!-- /.main -->
 <?php get_sidebar(); ?>

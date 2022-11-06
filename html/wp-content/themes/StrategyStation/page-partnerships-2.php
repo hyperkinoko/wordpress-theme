@@ -43,7 +43,7 @@ We offer leading tools for money managers including Multi-Account Management too
     <?php the_content(); ?>
 </div>
 <div class="clearfix"></div>
-				</div>
+</div></div>
 							</div><!-- /.main -->
 <?php get_sidebar(); ?>
 			</div><!-- /.row-->
