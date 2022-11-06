@@ -3,11 +3,22 @@
 <div class="wrap contentclass" role="document">
 
 	<section class="pagefeat container">
-	<div class="flexslider loading kt-flexslider" style="max-width:1140px;" data-flex-speed="7000" data-flex-anim-speed="400" data-flex-animation="fade" data-flex-auto="true">
-		<ul class="slides">
-			<li><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200" width="1140" height="200" srcset="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?w=1140&amp;ssl=1 1140w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=300%2C53&amp;ssl=1 300w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=768%2C135&amp;ssl=1 768w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt=""><meta itemprop="url" content="http://web.archive.org/web/20211120111530/https://i0.wp.com/strategy-station.biz/wp-content/uploads/2017/03/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px"></div></li>		</ul>
-	</div> <!--Flex Slides-->
-</section><div id="pageheader" class="titleclass">
+        <div class="flexslider loading kt-flexslider" style="max-width:1140px;" data-flex-speed="7000" data-flex-anim-speed="400" data-flex-animation="fade" data-flex-auto="true">
+            <ul class="slides">
+                <li>
+                    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                        <img src="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200" width="1140" height="200"
+                             srcset="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?w=1140&amp;ssl=1 1140w,<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=300%2C53&amp;ssl=1 300w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=768%2C135&amp;ssl=1 768w, <?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?resize=1024%2C180&amp;ssl=1 1024w" sizes="(max-width: 1140px) 100vw, 1140px" class="" itemprop="contentUrl" alt="">
+                        <meta itemprop="url" content="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg?fit=1140%2C200&amp;ssl=1&amp;resize=1140%2C200"><meta itemprop="width" content="1140px"><meta itemprop="height" content="200px">
+                    </div>
+                </li>
+            </ul>
+        </div> <!--Flex Slides-->
+    </section>
+    <div class="">
+        <img src="<?= get_template_directory_uri(); ?>/assets/images/trading-1140x2001-1.jpg">
+    </div>
+    <div id="pageheader" class="titleclass">
 	<div class="container">
 		<div class="page-header">
 			<h1 class="entry-title" itemprop="name">
